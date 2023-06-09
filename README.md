@@ -1,8 +1,8 @@
 # face-landmark-detection
 ### tensorflow.js based app for face landmark detection.
 
-## Create the react app with:
+## Creating the react app:
 ### npx create-react-app facemesh
 
-## Install dependencies:
+## Installing dependencies:
 ### npm install @tensorflow/tfjs @tensorflow-models/facemesh react-webcam
